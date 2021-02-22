@@ -2,11 +2,8 @@
 
 This application modifies starter code to create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
-## Your Task
 
-Your assignment is to modify starter code to create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
-
-The application’s front end has already been created. It's your job to build the back end, connect the two, and then deploy the entire application to Heroku.
+![demo-gif](./notetaker-demo.gif)
 
 
 ## User Story
@@ -36,4 +33,11 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ```
 
+## Questions
+
+For any questions relating to this application, please reach out to me at the following:
+
+Email: jared.weaver2@gmail.com
+
+Github: [JaredWeaver](github.com/JaredWeaver)
 

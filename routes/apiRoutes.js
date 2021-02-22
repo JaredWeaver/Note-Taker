@@ -11,7 +11,6 @@ router.get('/api/notes', (req, res) => {
 
 router.post('/api/notes', (req, res) => {
     req.body.id = uuidv4();
-    console.log(req.body);
     DB.push(req.body);
     fs.writeFileSync('./db/db.json', JSON.stringify(DB));
     res.json(DB);
